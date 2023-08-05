@@ -15,7 +15,7 @@ I am a high school student and making programs such as Bot and HTML in Node.JS, 
 
 ## Website
 
-- [My Website](https://yuanzu.ml)
+- [My Website](https://4nanai.com)
 
 
 ## Using Languages and Tools
