@@ -1,5 +1,5 @@
 ## About Me<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=30&duration=2000&pause=1000&color=E9E9F3&center=true&width=435&lines=%F0%9F%91%8BHello+there!;I'm+yuan+a.k.a+Abby;Glad+to+meet+you!%F0%9F%A4%97)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=30&duration=2000&pause=1000&color=E9E9F3&center=true&width=435&lines=%F0%9F%91%8BHello+there!;I'm+yuanchan;Glad+to+meet+you!%F0%9F%A4%97)](https://git.io/typing-svg)
 
 Hello! Im Yuan.
 
