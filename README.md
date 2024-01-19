@@ -7,7 +7,7 @@ I am a high school student and making programs such as Bot and HTML in Node.JS, 
 
 ## Contact<br>
 
-- Discord: ゆあん。#3094
+- Discord: **hutaowo** (OldTag: ゆあん。#3094)
 - mail: [yuan@white-paper.jp](mailto:yuan@white-paper.jp) [me@4nanai.com](mailto:me@4nanai.com)
 
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yuanch4n)
